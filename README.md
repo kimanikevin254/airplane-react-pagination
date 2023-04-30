@@ -1,4 +1,4 @@
-## React Pagination Starter Code
+## React Pagination
 
 1. To clone the repository:
 
