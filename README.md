@@ -3,7 +3,7 @@
 1. To clone the repository:
 
     ```bash
-    https://github.com/kimanikevin254/airplane-react-pagination-starter-code.git
+    git clone https://github.com/kimanikevin254/airplane-react-pagination.git
     ```
 
 2. `cd` into the project folder.
